@@ -1,0 +1,19 @@
+:root {
+  --c-default-icon: #181818;
+  --c-white-icon: #ffffff;
+
+  --c-bg-red: #F56E5A;
+  --c-bg-gray: #F0F0ED;
+
+  --c-border-gray: #dddddd;
+
+  --c-text-dark: #181818;
+  --c-text-gray: #8c8c8c;
+  --c-text-dark-red: #e85d41;
+
+  --pb-container: 28px;
+
+  @media (max-width: 768px) {
+    --pb-container: 12px;
+  }
+}
